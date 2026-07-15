@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.2.8.1",
-  "downloadURL": "https://github.com/ruru-mu/ShelfDrop-dev-updates/releases/download/v2.2.8.1/ShelfDrop-2.2.8.1.zip",
-  "siteDownloadURL": "https://github.com/ruru-mu/ShelfDrop-dev-updates/releases/download/v2.2.8.1/ShelfDrop-2.2.8.1.dmg",
-  "sha256": "8056a236c43e89c5032f4c39a4dfa1f743094ba4d19f154c0679e90886226d97",
-  "notesURL": "https://github.com/ruru-mu/ShelfDrop-dev-updates/releases/tag/v2.2.8.1",
+  "latestVersion": "2.3.1.1",
+  "downloadURL": "https://github.com/ruru-mu/ShelfDrop-dev-updates/releases/download/v2.3.1.1/ShelfDrop-2.3.1.1.zip",
+  "siteDownloadURL": "https://github.com/ruru-mu/ShelfDrop-dev-updates/releases/download/v2.3.1.1/ShelfDrop-2.3.1.1.dmg",
+  "sha256": "ded7414fab19bdd80768dda93cc2dbded8311854d47f3f3765981b133057e489",
+  "notesURL": "https://github.com/ruru-mu/ShelfDrop-dev-updates/releases/tag/v2.3.1.1",
   "minimumSupported": "2.0.0"
 }
